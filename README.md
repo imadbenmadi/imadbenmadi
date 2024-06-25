@@ -2,7 +2,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
 
-I'm a dedicated computer science graduate with plans to specialize in data science for my master's degree. I work as a full-stack web developer, leveraging technologies such as Express.js, Node.js, MySQL, Sequelize, MongoDB, Mongoose, React.js, and TailwindCSS to build robust web applications for startups, small, and large companies. I'm always open to learning and discovering new things, and I enjoy facing new challenges and finding innovative ways to solve them.
+I am a **dedicated computer science graduate** with plans to specialize in **data science** for my master's degree. As a **full-stack web developer**, I leverage a diverse set of technologies to build robust web applications for startups, small, and large companies. My technical expertise includes:
+
+- **Backend**: Express.js, Node.js
+- **Databases**: MySQL, Sequelize, MongoDB, Mongoose
+- **Frontend**: React.js, TailwindCSS
+
+I am always eager to learn and discover new things, and I thrive on facing new challenges and finding innovative solutions to overcome them.
 
 ## 🚀 About Me
 
