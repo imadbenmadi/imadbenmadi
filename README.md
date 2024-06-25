@@ -1,6 +1,6 @@
 # Hi there, I'm Benmadi Imed-Eddine 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=imadbenmadi&color=blueviolet)
 
 I am a **dedicated computer science graduate** with plans to specialize in **data science** for my master's degree. As a **full-stack web developer**, I leverage a diverse set of technologies to build robust web applications for startups, small, and large companies. My technical expertise includes:
 
