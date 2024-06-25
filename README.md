@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name] 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=imadbenmadi&color=blueviolet)
 
 I'm a passionate Full Stack Web Developer and aspiring Data Scientist. Here's a little bit about me:
 
