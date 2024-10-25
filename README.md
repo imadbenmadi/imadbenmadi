@@ -8,7 +8,8 @@ I am a **dedicated computer science graduate** with plans to specialize in **dat
 - **Databases**: MySQL, MongoDB
 - **Frontend**: NextJs, React.js, React Router, TailwindCSS, React Libraries
 
-- **Programming Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+- **Programming Languages**:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 
 I am always eager to learn and discover new things, and I thrive on facing new challenges and finding innovative solutions to overcome them.
 
