@@ -3,6 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=imadbenmadi&color=blueviolet)
 
 I am a **dedicated computer science graduate** with plans to specialize in **data science** for my master's degree. As a **full-stack web developer**, I leverage a diverse set of technologies to build robust web applications for startups, small, and large companies.
+I am always eager to learn and discover new things, and I thrive on facing new challenges and finding innovative solutions to overcome them.
 
 - **Programming Languages**:
   
@@ -10,14 +11,12 @@ I am a **dedicated computer science graduate** with plans to specialize in **dat
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 
-I am always eager to learn and discover new things, and I thrive on facing new challenges and finding innovative solutions to overcome them.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Data Science in my master's degree.
-- 💼 I’m working as a Full Stack Web Developer.
-- 💬 Ask me about Node.js, Express.js, React.js, MySQL, Sequelize, MongoDB, Mongoose, TailwindCSS.
-- 📫 How to reach me: [benmadi.imadeedin@univ-ouargla.dz](mailto:benmadi.imadeedin@univ-ouargla.dz)
+- 🌱 I have a bachelor's degree in computer science and I’m currently a master's in Data Science.
+- 💼 I work as a Full Stack Web Developer.
+- 📫 How to reach me: [benmadi.imadeedin@univ-ouargla.dz](mailto:benmadi.imadeedin@univ-ouargla.dz) or [benmadi.imed@gmail.com](mailto:benmadi.imed@gmail.com)
 
 ## 🛠 Skills
 
