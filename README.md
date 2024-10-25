@@ -8,7 +8,8 @@ I am a **dedicated computer science graduate** with plans to specialize in **dat
 - **Databases**: MySQL, MongoDB
 - **Frontend**: NextJs, React.js, React Router, TailwindCSS, React Libraries
 
-- **Programming Languages**: 
+- **Programming Languages**:
+  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
