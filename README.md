@@ -2,11 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imadbenmadi&color=blueviolet)
 
-I am a **dedicated computer science graduate** with plans to specialize in **data science** for my master's degree. As a **full-stack web developer**, I leverage a diverse set of technologies to build robust web applications for startups, small, and large companies. My technical expertise includes:
-
-- **Backend**:  Node.js ,Express.js , JWT, Java SpringBoot, Python Django
-- **Databases**: MySQL, MongoDB
-- **Frontend**: NextJs, React.js, React Router, TailwindCSS, React Libraries
+I am a **dedicated computer science graduate** with plans to specialize in **data science** for my master's degree. As a **full-stack web developer**, I leverage a diverse set of technologies to build robust web applications for startups, small, and large companies.
 
 - **Programming Languages**:
   
