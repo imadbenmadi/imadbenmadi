@@ -4,9 +4,11 @@
 
 I am a **dedicated computer science graduate** with plans to specialize in **data science** for my master's degree. As a **full-stack web developer**, I leverage a diverse set of technologies to build robust web applications for startups, small, and large companies. My technical expertise includes:
 
-- **Backend**: Express.js, Node.js, JWT (JSON Web Tokens)
-- **Databases**: MySQL, Sequelize, MongoDB, Mongoose
-- **Frontend**: React.js, React Router, TailwindCSS
+- **Backend**:  Node.js ,Express.js , JWT, Java SpringBoot, Python Django
+- **Databases**: MySQL, MongoDB
+- **Frontend**: NextJs, React.js, React Router, TailwindCSS, React Libraries
+
+- **Programming Languages**: , JavaScript , Python , Java 
 
 I am always eager to learn and discover new things, and I thrive on facing new challenges and finding innovative solutions to overcome them.
 
