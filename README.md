@@ -47,6 +47,3 @@ I work as a Full Stack Web Developer and Data Scientist. My focus is on building
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/imed-eddine-b-4b5a72236/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=portfolio&logoColor=white&style=for-the-badge)](https://imadbenmadi.vercel.app/)
 
-## Statistics
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imadbenmadi&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadbenmadi&layout=compact&theme=radical&hide_title=true)
