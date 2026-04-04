@@ -6,7 +6,8 @@ Computer Science graduate currently pursuing a Master's degree in Data Science.
 
 **My Goal is to make a deference , a change , or an improvement => for my work to have a value**
 
-I work as a Full Stack Web Developer and Data Scientist. My focus is on building scalable web applications and developing data-driven solutions for startups and companies.
+I work as a Web Developer. My focus is on building scalable web applications and developing data-driven solutions for startups and companies.
+current role : app developer at diamonddiagnosics 
 
 **Contact:** [benmadi.imed@gmail.com](mailto:benmadi.imed@gmail.com)
 
